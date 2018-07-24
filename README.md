@@ -11,7 +11,7 @@ The latest release of Ghost is now supported! Changes include:
     * [ClearDB](https://elements.heroku.com/addons/cleardb)
   * `HEROKU_URL` config var renamed to `PUBLIC_URL` to avoid using Heroku's namespace
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) [![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/ghost-heroku.svg)](https://greenkeeper.io/)
 
 ### Things you should know
 
